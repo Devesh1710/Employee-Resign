@@ -1,3 +1,3 @@
 # Employee-Retention
 
-We are predicting the employee retention. 
+Predicting whether an employee will leave or not
